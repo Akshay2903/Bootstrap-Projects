@@ -1,0 +1,23 @@
+body{
+	background: url("E:\\tutorials\\Web design\\bootstrapcode\\Projects\\awesomecode\\pexels-photo-733475.jpeg") no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Indie Flower', cursive;
+}
+.rowHeight{
+	height: 500px;
+}
+h1{
+	color: white;
+	font-size: 2.5em;
+}
+.bg{
+	background-color: #c1c1c1;
+	opacity: 0.8;
+}
+.footer{
+	background-color: #fff;
+}
+p{
+	font-size: 18px;
+	padding: 10px;
+}
