@@ -7,3 +7,7 @@ body{
 	max-height: 100px;
 	margin: 0 auto;
 }
+
+#login-modal input[type=text],input[type=password]{
+	margin-top: 10px;
+}
